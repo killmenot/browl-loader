@@ -1,6 +1,6 @@
 # browl-loader
 
-[![Build Status](https://travis-ci.org/killmenot/browl-loader.svg?branch=master)](https://travis-ci.org/killmenot/browl-loader) [![Coverage Status](https://coveralls.io/repos/github/killmenot/browl-plugin-yaml/badge.svg?branch=master)](https://coveralls.io/github/killmenot/browl-loader?branch=master) [![Dependency Status](https://david-dm.org/killmenot/browl-loader.svg)](hhttps://david-dm.org/killmenot/browl-loader) [![npm version](https://img.shields.io/npm/v/browl-loader.svg)](https://www.npmjs.com/package/browl-loader)
+[![Build Status](https://travis-ci.org/killmenot/browl-loader.svg?branch=master)](https://travis-ci.org/killmenot/browl-loader) [![Coverage Status](https://coveralls.io/repos/github/killmenot/browl-loader/badge.svg?branch=master)](https://coveralls.io/github/killmenot/browl-loader?branch=master) [![Dependency Status](https://david-dm.org/killmenot/browl-loader.svg)](https://david-dm.org/killmenot/browl-loader) [![npm version](https://img.shields.io/npm/v/browl-loader.svg)](https://www.npmjs.com/package/browl-loader)
 
 Browl loader allows to load custom deploy strategies.
 
@@ -8,6 +8,8 @@ Browl loader allows to load custom deploy strategies.
 ## License
 
     The MIT License (MIT)
+
+    Copyright (c) Alexey Kucherenko
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal

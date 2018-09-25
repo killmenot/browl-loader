@@ -30,8 +30,8 @@
     ]
   },
   "dependencies": {
-    "browl-util": "killmenot/browl-util",
-    "browl-null": "killmenot/browl-null",
+    "browl-util": "^0.1.0",
+    "browl-null": "^0.1.0",
     "debug": "^4.0.1"
   },
   "devDependencies": {

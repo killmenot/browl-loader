@@ -105,7 +105,7 @@ describe('browl-loader', () => {
     const TestStrategy = browlLoader(rootConfig, repo, repoConfig);
     const actual = new TestStrategy(repo, rootConfig, repoConfig);
 
-    expect(browlUtil.installModule).calledWith('debug@^4.0.1');
+    expect(browlUtil.installModule).calledWith('debug@^4.0.1', { cwd: resolve('etc/browl/webapp/deploy')});
     expect(actual.name).equal(expected);
   });
 });
